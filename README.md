@@ -1,1 +1,1 @@
-# MergeConflit
+Exercice Merge et conflit
